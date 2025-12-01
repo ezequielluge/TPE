@@ -6,6 +6,7 @@ int main(){
 =======
 
 int main(void) {
+    printf("Nueva linea");
     printf("Hello World!\n");
     return 0;
 >>>>>>> refs/remotes/origin/main
