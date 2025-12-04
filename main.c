@@ -7,5 +7,6 @@ int main(void) {
     printf("HOLAAAAAAAAAA");
     printf("HOLAAAAAAAAAA");
     printf("HOLAAAAAAAAAA");
+    printf("LUGE ES GAY");
     return 0;
 }
