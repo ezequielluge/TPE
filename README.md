@@ -1,5 +1,5 @@
 # MI PROGRAMITA
 
-[x] uno
-[] uno
-[] uno
+# [x] uno
+# [] uno
+# [] uno
